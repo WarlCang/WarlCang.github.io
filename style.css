@@ -17,6 +17,11 @@ img {
     border-style: solid;
 }
 
+#CV{
+    width: 35%;
+    height 35%;
+}
+
 h3{
     font-size: 30px;
 }
